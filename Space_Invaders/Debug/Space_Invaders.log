@@ -1,0 +1,137 @@
+﻿  Game.cpp
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameSrc\Game.cpp(179,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameSrc\Game.cpp(197,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameSrc\Game.cpp(210,27): warning C4018: '<': signed/unsigned mismatch
+  ScoreUI.cpp
+  TitleMenu.cpp
+  PauseScreen.cpp
+  GameState.cpp
+  GameOverUI.cpp
+  PlayerLifeUi.cpp
+  PlayerLifeState.cpp
+  Blockades.cpp
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Blockades.cpp(20,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Blockades.cpp(27,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Blockades.cpp(67,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  gameObject.cpp
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\gameObject.cpp(18,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Animation.cpp
+  Character.cpp
+  Enemy.cpp
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(19,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(19,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(27,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(55,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(77,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(101,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(104,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(113,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(136,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(142,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(163,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(220,36): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(246,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(278,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Enemy.cpp(285,23): warning C4018: '<': signed/unsigned mismatch
+  Laser.cpp
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Laser.cpp(31,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Player.cpp(16,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Player.cpp(22,40): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Player.cpp(36,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Player.cpp(36,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Player.cpp(76,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\GameObjectSrc\Player.cpp(85,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  UI.cpp
+  UiScreens.cpp
+C:\Users\Parisimo\Desktop\Space_Invaders\Space_Invaders\src\UI\UiScreens.cpp(61,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  WinScreen.cpp
+  Generating Code...
+Debug\Main.obj : warning LNK4042: object specified more than once; extras ignored
+  Space_Invaders.vcxproj -> C:\Users\Parisimo\Desktop\Space_Invaders\Debug\Space_Invaders.exe
